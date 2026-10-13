@@ -204,4 +204,4 @@ PStart is offered as a full free version with all features and updates included.
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-12 20:40:55 UTC
+**Last updated:** 2026-10-13 02:19:50 UTC
